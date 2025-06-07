@@ -21,10 +21,10 @@ This project is a simple web application that predicts whether a person is an **
 | Feature                        | Description                                                |
 |-------------------------------|------------------------------------------------------------|
 | `time_spent_alone`            | Hours a person enjoys being alone daily                    |
-| `Stage_Fear_numeric`          | Numeric value indicating stage fear (e.g., 1-10 scale)     |
+| `Stage_Fear_numeric`          | Numeric value indicating stage fear     |
 | `Social_event_attendance`     | Frequency of attending social events                       |
 | `Going_outside`               | Number of times the person goes out per week               |
-| `Drained_after_socializing_numeric` | Level of mental exhaustion after socializing (1-10)  |
+| `Drained_after_socializing_numeric` | Level of mental exhaustion after socializing  |
 | `Friends_circle_size`         | Approximate number of close friends                        |
 | `Post_frequency`              | Frequency of social media posts per week                   |
 
