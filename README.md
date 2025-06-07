@@ -69,11 +69,11 @@ streamlit run app.py
 
 Once the user fills in the form and clicks **Predict**, the app will output:
 ```
-🔮 You Are Introvert.
+You Are Introvert.
 ```
 or
 ```
-🎉 You Are Extrovert.
+You Are Extrovert.
 
 
 ```
