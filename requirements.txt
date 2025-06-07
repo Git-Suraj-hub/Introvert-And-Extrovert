@@ -1,4 +1,4 @@
 pandas
 streamlit
-pickle
+pickle5  
 numpy
