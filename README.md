@@ -90,7 +90,6 @@ introvert-extrovert-predictor/
 ├── app.py                     # Streamlit app
 ├── personality_dataset.csv    # Personality Dataset
 ├── perceptron_model.pkl      # Perceptron Model
-├── requirements.txt          # Python dependencies
 └── README.md                 # Project overview (this file)
 └── Screenshot.png            # Screenshot Of My Ui
 ```
