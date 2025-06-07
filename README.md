@@ -49,7 +49,7 @@ This project is a simple web application that predicts whether a person is an **
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/introvert-extrovert-predictor.git
+git clone https://github.com/Git-Suraj-hub/Introvert-And-Extrovert.git
 cd introvert-extrovert-predictor
 ```
 
@@ -69,23 +69,30 @@ streamlit run app.py
 
 Once the user fills in the form and clicks **Predict**, the app will output:
 ```
-🔮 You seem to be an Introvert.
+🔮 You Are Introvert.
 ```
 or
 ```
-🎉 You seem to be an Extrovert!
+🎉 You Are Extrovert.
+
+
 ```
+
+## 📸 Screenshots
+
+![Screenshot](Screenshot.png)
 
 ## 📁 File Structure
 
 ```
 introvert-extrovert-predictor/
 │
-├── app.py                   # Streamlit app
-├── model.py                 # Perceptron model training script
-├── utils.py                 # Helper functions (if any)
-├── requirements.txt         # Python dependencies
-└── README.md                # Project overview (this file)
+├── app.py                     # Streamlit app
+├── personality_dataset.csv    # Personality Dataset
+├── perceptron_model.pkl      # Perceptron Model
+├── requirements.txt          # Python dependencies
+└── README.md                 # Project overview (this file)
+└── Screenshot.png            # Screenshot Of My Ui
 ```
 
 ## 🙌 Acknowledgments
