@@ -1,6 +1,6 @@
 
 # 🧠 Introvert vs Extrovert Prediction App
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://book-recommendations-web.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://introvert-and-extrovert.streamlit.app/)
 [![GitHub stars](https://img.shields.io/github/stars/Git-Suraj-hub/Introvert-And-Extrovert?style=social)](https://github.com/Git-Suraj-hub/Introvert-And-Extrovert.git)
 
 This project is a simple web application that predicts whether a person is an **Introvert** or an **Extrovert** based on 7 psychological and behavioral traits. The prediction model is powered by the **Perceptron algorithm**, and the web interface is built using **Streamlit**.
