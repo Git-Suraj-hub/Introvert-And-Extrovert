@@ -1,11 +1,11 @@
 import pandas as pd
 import streamlit as st
-import pickle
+import  joblib
 import numpy as np
 
 dataset = pd.read_csv('personality_dataset.csv')
 
-loaded_model = pickle.load(open('perceptron_model.pkl', 'rb'))
+loaded_model = joblib.load('perceptron_model.pkl')
 
 time_spent_alone = st.number_input("Hours spent alone daily (Max:24hrs):", min_value=0,max_value=24 ,value=0, step=1)
 
