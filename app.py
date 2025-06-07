@@ -1,6 +1,6 @@
 import pandas as pd
 import streamlit as st
-import  joblib
+import joblib
 import numpy as np
 
 dataset = pd.read_csv('personality_dataset.csv')
