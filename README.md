@@ -87,10 +87,11 @@ or
 ```
 introvert-extrovert-predictor/
 │
-├── app.py                     # Streamlit app
-├── personality_dataset.csv    # Personality Dataset
+├── app.py                    # Streamlit app
+├── personality_dataset.csv   # Personality Dataset
 ├── perceptron_model.pkl      # Perceptron Model
 └── README.md                 # Project overview (this file)
+├── requirements.txt          # Python dependencies
 └── Screenshot.png            # Screenshot Of My Ui
 ```
 
